@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<Report>
+<Component ElapsedTime="14474375" Email="Downstream_Contracts_DEV" FunctionalArea="Downstream/Contracts" Name="test.contract.ss" TotalElapsedTime="5130292" nbErrors="3" nbFailures="9" nbNotRun="0" nbPerfFailures="0" nbReRun="18" nbSkipped="6" nbTests="216">
+<Execution>
+<Suite ElapsedTime="11326276" Name="test.ariba.contract.core" StartTime="11:15:30" nbErrors="0" nbFailures="4" nbNotRun="0" nbReRun="7" nbSkipped="3" nbTests="163">
+
+</Suite>
+
+</Execution>
+</Component>
+
+<Component ElapsedTime="5252670" Email="Downstream_ACP_DEV" FunctionalArea="Downstream/ACP" Name="test.collaboration" TotalElapsedTime="2815225" nbErrors="0" nbFailures="1" nbNotRun="0" nbPerfFailures="0" nbReRun="2" nbSkipped="1" nbTests="76">
+<Execution>
+<Suite ElapsedTime="3011631" Name="test.ariba.collaboration.core" StartTime="11:07:42" nbErrors="0" nbFailures="0" nbNotRun="0" nbReRun="0" nbSkipped="0" nbTests="36">
+
+</Suite>
+
+</Execution>
+</Component>
+</Report>
